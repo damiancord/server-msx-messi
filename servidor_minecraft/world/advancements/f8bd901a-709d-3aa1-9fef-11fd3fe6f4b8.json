@@ -417,6 +417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-16 05:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-16 04:34:39 +0000"
@@ -471,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-16 05:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-16 05:15:56 +0000"
@@ -513,9 +525,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-16 05:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 04:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-16 05:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-16 05:16:48 +0000"
     },
     "done": true
   },
@@ -537,6 +567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-16 05:21:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-16 05:15:56 +0000"
@@ -546,6 +582,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-16 04:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-16 05:19:28 +0000"
     },
     "done": true
   },
@@ -663,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-16 05:54:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-16 04:34:44 +0000"
@@ -684,6 +732,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-16 05:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-16 05:54:07 +0000"
     },
     "done": true
   },
@@ -726,6 +780,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 04:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-16 05:21:56 +0000"
     },
     "done": true
   },
@@ -849,6 +909,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-16 05:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-16 05:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-16 04:34:39 +0000"
@@ -900,6 +972,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-16 05:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-16 05:20:37 +0000"
     },
     "done": true
   },
@@ -1040,6 +1118,7 @@
       "minecraft:skeleton": "2024-12-16 04:41:40 +0000",
       "minecraft:spider": "2024-12-16 04:56:16 +0000",
       "minecraft:creeper": "2024-12-16 05:13:41 +0000",
+      "minecraft:piglin": "2024-12-16 05:54:43 +0000",
       "minecraft:zombie": "2024-12-16 04:37:57 +0000"
     },
     "done": false
@@ -1176,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-16 05:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-16 04:45:58 +0000"
@@ -1240,6 +1325,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-16 04:43:15 +0000",
       "bread": "2024-12-16 04:54:35 +0000",
+      "cooked_chicken": "2024-12-16 05:50:58 +0000",
       "cooked_salmon": "2024-12-16 04:38:08 +0000"
     },
     "done": false
@@ -1259,6 +1345,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-16 04:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-16 05:20:37 +0000"
     },
     "done": true
   },
@@ -1340,6 +1432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-16 05:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-16 04:34:44 +0000"
@@ -1400,9 +1498,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-16 05:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 04:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-16 05:19:28 +0000"
     },
     "done": true
   },
@@ -1421,6 +1531,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 04:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-16 05:20:37 +0000"
     },
     "done": true
   },
