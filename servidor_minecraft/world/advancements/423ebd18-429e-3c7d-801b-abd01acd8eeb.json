@@ -391,6 +391,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2024-12-18 17:30:58 +0000",
       "beef": "2024-12-18 17:11:29 +0000",
       "mutton": "2024-12-18 00:26:32 +0000",
       "rotten_flesh": "2024-12-18 17:04:55 +0000"
@@ -820,6 +821,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-18 17:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 17:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-18 17:33:06 +0000"
     },
     "done": true
   },
