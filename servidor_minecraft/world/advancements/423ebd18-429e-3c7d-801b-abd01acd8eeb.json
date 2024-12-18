@@ -11,6 +11,7 @@
       "minecraft:dark_forest": "2024-12-18 00:30:50 +0000",
       "minecraft:river": "2024-12-18 16:39:32 +0000",
       "minecraft:forest": "2024-12-18 01:03:24 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-18 16:48:00 +0000",
       "minecraft:meadow": "2024-12-18 00:10:13 +0000"
     },
     "done": false
@@ -775,6 +776,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-18 16:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-18 16:51:33 +0000"
     },
     "done": true
   },
