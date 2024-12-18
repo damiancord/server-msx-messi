@@ -455,6 +455,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-16 05:15:21 +0000",
+      "beef": "2024-12-18 00:52:55 +0000",
+      "porkchop": "2024-12-18 00:52:03 +0000",
       "mutton": "2024-12-18 00:24:09 +0000",
       "rotten_flesh": "2024-12-16 04:47:06 +0000"
     },
@@ -1294,9 +1296,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-18 00:51:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-18 00:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 00:50:46 +0000"
     },
     "done": true
   },
@@ -1321,6 +1335,30 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-18 00:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 00:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 00:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-18 00:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-18 00:51:24 +0000"
     },
     "done": true
   },
