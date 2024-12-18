@@ -63,3 +63,6 @@
 [16:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-17, y=115, z=1} gu{x=-16, y=115, z=1}
 [16:44:25] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-17, y=115, z=3} gu{x=-16, y=115, z=2}
 [17:22:07] [Server thread/INFO]: mayitumama was blown up by Creeper
+[17:43:35] [Server thread/INFO]: mayitumama was shot by Skeleton
+[17:46:18] [Server thread/INFO]: mayitumama lost connection: Disconnected
+[17:46:18] [Server thread/INFO]: mayitumama left the game
