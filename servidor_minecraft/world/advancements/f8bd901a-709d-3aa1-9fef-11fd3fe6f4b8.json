@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-16 04:23:17 +0000",
+      "minecraft:dark_forest": "2024-12-18 00:48:08 +0000",
       "minecraft:river": "2024-12-16 04:26:31 +0000",
       "minecraft:forest": "2024-12-16 01:26:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-16 04:27:29 +0000",
@@ -1556,6 +1557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 00:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2024-12-18 00:24:43 +0000"
@@ -1595,6 +1602,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-12-18 00:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-18 00:38:31 +0000"
     },
     "done": true
   },
