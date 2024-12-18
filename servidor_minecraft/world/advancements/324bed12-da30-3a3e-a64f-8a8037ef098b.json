@@ -276,6 +276,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-18 00:22:10 +0000",
       "minecraft:skeleton": "2024-12-16 05:12:50 +0000",
       "minecraft:spider": "2024-12-16 04:52:09 +0000",
       "minecraft:enderman": "2024-12-16 04:45:44 +0000",
@@ -454,6 +455,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-16 05:15:21 +0000",
+      "mutton": "2024-12-18 00:24:09 +0000",
       "rotten_flesh": "2024-12-16 04:47:06 +0000"
     },
     "done": false
@@ -1268,12 +1270,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-12-16 05:56:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-16 05:36:51 +0000"
@@ -1289,6 +1285,24 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-16 05:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-16 05:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-18 00:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 00:23:46 +0000"
     },
     "done": true
   },

@@ -40,3 +40,32 @@
 [00:14:18] [Server thread/INFO]: mayitumama has made the advancement [Stone Age]
 [00:16:15] [Server thread/INFO]: joaco0314[/127.222.18.185:56351] logged in with entity id 1864 at (-86.32952483564793, 104.0, -53.7613223248063)
 [00:16:15] [Server thread/INFO]: joaco0314 joined the game
+[00:20:55] [Server thread/INFO]: damiancord[/127.239.83.243:44941] logged in with entity id 2535 at (-257.024086437447, 69.0, 296.2714658637404)
+[00:20:55] [Server thread/INFO]: damiancord joined the game
+[00:21:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=9}
+[00:21:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
+[00:21:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
+[00:21:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
+[00:21:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
+[00:21:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
+[00:21:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=10, y=115, z=2}
+[00:21:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=10, y=115, z=1}
+[00:22:19] [Server thread/INFO]: mayitumama has made the advancement [Monster Hunter]
+[00:22:37] [Server thread/WARN]: mayitumama moved too quickly! -6.182726803454049,1.0,8.01032738743541
+[00:23:16] [Server thread/INFO]: theyisus_67[/127.4.219.202:50393] logged in with entity id 3711 at (-458.69999998807907, -8.0, -301.63323474244464)
+[00:23:16] [Server thread/INFO]: theyisus_67 joined the game
+[00:23:46] [Server thread/INFO]: joaco0314 has made the advancement [Voluntary Exile]
+[00:23:46] [Server thread/INFO]: theyisus_67 lost connection: Timed out
+[00:23:46] [Server thread/INFO]: theyisus_67 left the game
+[00:24:59] [Server thread/INFO]: mayitumama has made the advancement [Getting an Upgrade]
+[00:25:03] [Server thread/INFO]: theyisus_67[/127.4.219.202:46399] logged in with entity id 4924 at (-458.69999998807907, -8.0, -301.63323474244464)
+[00:25:03] [Server thread/INFO]: theyisus_67 joined the game
+[00:25:29] [Server thread/INFO]: ilvbethh[/127.15.240.28:56217] logged in with entity id 5361 at (5.5, 115.0, 1.5)
+[00:25:29] [Server thread/INFO]: ilvbethh joined the game
+[00:25:34] [Server thread/INFO]: theyisus_67 lost connection: Timed out
+[00:25:34] [Server thread/INFO]: theyisus_67 left the game
+[00:27:18] [Server thread/INFO]: damiancord has made the advancement [A Terrible Fortress]
+[00:27:50] [Server thread/INFO]: damiancord has made the advancement [Into Fire]
+[00:30:41] [Server thread/INFO]: ilvbethh fell from a high place
+[00:30:44] [Server thread/INFO]: ilvbethh lost connection: Disconnected
+[00:30:44] [Server thread/INFO]: ilvbethh left the game
