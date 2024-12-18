@@ -1,212 +1,33 @@
-[00:00:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:00:37] [ServerMain/INFO]: Loaded 7 recipes
-[00:00:37] [ServerMain/INFO]: Loaded 1271 advancements
-[00:00:37] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:00:37] [Server thread/INFO]: Loading properties
-[00:00:37] [Server thread/INFO]: Default game type: SURVIVAL
-[00:00:37] [Server thread/INFO]: Generating keypair
-[00:00:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:00:38] [Server thread/INFO]: Using epoll channel type
-[00:00:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:00:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:00:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:00:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:00:38] [Server thread/INFO]: Preparing level "world"
-[00:00:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:00:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:00:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:00:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:00:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:00:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:00:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:00:46] [Worker-Main-3/INFO]: Preparing spawn area: 74%
-[00:00:46] [Server thread/INFO]: Time elapsed: 5671 ms
-[00:00:46] [Server thread/INFO]: Done (8.217s)! For help, type "help"
-[00:04:07] [Server thread/INFO]: theyisus_67[/127.4.219.202:33847] logged in with entity id 212 at (-458.69999998807907, -8.0, -301.63323474244464)
-[00:04:07] [Server thread/INFO]: theyisus_67 joined the game
-[00:04:37] [Server thread/INFO]: theyisus_67 lost connection: Timed out
-[00:04:37] [Server thread/INFO]: theyisus_67 left the game
-[00:05:15] [Server thread/INFO]: theyisus_67[/127.4.219.202:49755] logged in with entity id 449 at (-458.69999998807907, -8.0, -301.63323474244464)
-[00:05:15] [Server thread/INFO]: theyisus_67 joined the game
-[00:05:45] [Server thread/INFO]: theyisus_67 lost connection: Timed out
-[00:05:45] [Server thread/INFO]: theyisus_67 left the game
-[00:10:12] [Server thread/INFO]: mayitumama[/127.108.30.87:35623] logged in with entity id 688 at (9.5, 116.0, -0.5)
-[00:10:12] [Server thread/INFO]: mayitumama joined the game
-[00:14:18] [Server thread/INFO]: mayitumama has made the advancement [Stone Age]
-[00:16:15] [Server thread/INFO]: joaco0314[/127.222.18.185:56351] logged in with entity id 1864 at (-86.32952483564793, 104.0, -53.7613223248063)
-[00:16:15] [Server thread/INFO]: joaco0314 joined the game
-[00:20:55] [Server thread/INFO]: damiancord[/127.239.83.243:44941] logged in with entity id 2535 at (-257.024086437447, 69.0, 296.2714658637404)
-[00:20:55] [Server thread/INFO]: damiancord joined the game
-[00:21:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=9}
-[00:21:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
-[00:21:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
-[00:21:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
-[00:21:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
-[00:21:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=4, y=115, z=10}
-[00:21:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=10, y=115, z=2}
-[00:21:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=34, y=120, z=-18} gu{x=10, y=115, z=1}
-[00:22:19] [Server thread/INFO]: mayitumama has made the advancement [Monster Hunter]
-[00:22:37] [Server thread/WARN]: mayitumama moved too quickly! -6.182726803454049,1.0,8.01032738743541
-[00:23:16] [Server thread/INFO]: theyisus_67[/127.4.219.202:50393] logged in with entity id 3711 at (-458.69999998807907, -8.0, -301.63323474244464)
-[00:23:16] [Server thread/INFO]: theyisus_67 joined the game
-[00:23:46] [Server thread/INFO]: joaco0314 has made the advancement [Voluntary Exile]
-[00:23:46] [Server thread/INFO]: theyisus_67 lost connection: Timed out
-[00:23:46] [Server thread/INFO]: theyisus_67 left the game
-[00:24:59] [Server thread/INFO]: mayitumama has made the advancement [Getting an Upgrade]
-[00:25:03] [Server thread/INFO]: theyisus_67[/127.4.219.202:46399] logged in with entity id 4924 at (-458.69999998807907, -8.0, -301.63323474244464)
-[00:25:03] [Server thread/INFO]: theyisus_67 joined the game
-[00:25:29] [Server thread/INFO]: ilvbethh[/127.15.240.28:56217] logged in with entity id 5361 at (5.5, 115.0, 1.5)
-[00:25:29] [Server thread/INFO]: ilvbethh joined the game
-[00:25:34] [Server thread/INFO]: theyisus_67 lost connection: Timed out
-[00:25:34] [Server thread/INFO]: theyisus_67 left the game
-[00:27:18] [Server thread/INFO]: damiancord has made the advancement [A Terrible Fortress]
-[00:27:50] [Server thread/INFO]: damiancord has made the advancement [Into Fire]
-[00:30:41] [Server thread/INFO]: ilvbethh fell from a high place
-[00:30:44] [Server thread/INFO]: ilvbethh lost connection: Disconnected
-[00:30:44] [Server thread/INFO]: ilvbethh left the game
-[00:31:52] [Server thread/INFO]: wignight[/127.45.112.196:37711] logged in with entity id 8744 at (30.68654649632379, 122.0, -0.1665573853614341)
-[00:31:52] [Server thread/INFO]: wignight joined the game
-[00:33:07] [Server thread/INFO]: joaco0314 was slain by Zombie
-[00:33:43] [Server thread/INFO]: mayitumama has made the advancement [Acquire Hardware]
-[00:33:58] [Server thread/INFO]: mayitumama has made the advancement [Isn't It Iron Pick]
-[00:35:20] [Server thread/INFO]: mayitumama has made the advancement [Sweet Dreams]
-[00:36:35] [Server thread/INFO]: wignight has made the advancement [Monster Hunter]
-[00:37:02] [Server thread/INFO]: joaco0314 was shot by Skeleton
-[00:37:16] [Server thread/INFO]: mayitumama was slain by Zombie
-[00:38:31] [Server thread/INFO]: damiancord has made the advancement [Enchanter]
-[00:40:13] [Server thread/INFO]: joaco0314 has made the advancement [Best Friends Forever]
-[00:40:43] [Server thread/INFO]: joaco0314 was slain by Zombie
-[00:40:55] [Server thread/INFO]: wignight was shot by Skeleton
-[00:40:59] [Server thread/INFO]: joaco0314 was slain by Zombie
-[00:41:14] [Server thread/INFO]: [Not Secure] <wignight> que onda con los esqueletos???
-[00:41:17] [Server thread/INFO]: [Not Secure] <wignight> los bufearon
-[00:45:35] [Server thread/INFO]: [Not Secure] <wignight> ?
-[00:46:17] [Server thread/INFO]: [Not Secure] <damiancord> full vanilla
-[00:46:39] [Server thread/INFO]: [Not Secure] <wignight> che damian
-[00:46:51] [Server thread/INFO]: [Not Secure] <mayitumama> todo mentira
-[00:46:57] [Server thread/INFO]: [Not Secure] <wignight> may esta obligandote que te unas a la llamda y yo le estoy diciendo que joda
-[00:47:04] [Server thread/INFO]: [Not Secure] <mayitumama> dami mentura
-[00:47:15] [Server thread/INFO]: [Not Secure] <damiancord> may si queres lo puedo poner en hardcore :>
-[00:47:27] [Server thread/INFO]: [Not Secure] <wignight> DJKSLADJLASLDAJ
-[00:47:30] [Server thread/INFO]: [Not Secure] <mayitumama> pero yo no dije eso
-[00:47:35] [Server thread/INFO]: [Not Secure] <wignight> AJA
-[00:47:42] [Server thread/INFO]: [Not Secure] <wignight> aca no pero en llamada si
-[00:47:45] [Server thread/INFO]: [Not Secure] <mayitumama> tu ptm
-[00:47:48] [Server thread/INFO]: [Not Secure] <damiancord> lo decia pq dice que es mentira que esta vanilla xd
-[00:48:02] [Server thread/INFO]: [Not Secure] <damiancord> lo otro me da igual, aunque me insistan no me voy a unir
-[00:48:12] [Server thread/INFO]: [Not Secure] <mayitumama> ok
-[00:48:14] [Server thread/INFO]: wignight has made the advancement [Acquire Hardware]
-[00:48:29] [Server thread/INFO]: [Not Secure] <damiancord> talvez me una el fin de semana
-[00:48:29] [Server thread/INFO]: wignight has made the advancement [Suit Up]
-[00:48:42] [Server thread/INFO]: wignight has made the advancement [Ice Bucket Challenge]
-[00:49:03] [Server thread/INFO]: wignight has made the advancement [Isn't It Iron Pick]
-[00:50:54] [Server thread/INFO]: [Not Secure] <mayitumama> t567
-[00:51:03] [Server thread/INFO]: mayitumama was doomed to fall
-[00:52:02] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=17, y=117, z=-6} gu{x=16, y=116, z=-6}
-[00:52:35] [Server thread/WARN]: joaco0314 moved too quickly! 10.256944643356661,-0.7287758923075103,0.3185291341688412
-[00:55:06] [Server thread/WARN]: joaco0314 moved too quickly! -1.3973135700667831,-9.511361445793497,4.0792484942407725
-[00:56:44] [Server thread/INFO]: wignight has made the advancement [Sweet Dreams]
-[00:56:51] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:51] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:52] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:52] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:52] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:52] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:52] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:52] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:53] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:53] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:53] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:53] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:56:53] [Server thread/INFO]: wignight lost connection: Kicked for spamming
-[00:56:53] [Server thread/INFO]: wignight left the game
-[00:56:59] [Server thread/INFO]: wignight[/127.45.112.196:36859] logged in with entity id 22954 at (11.5, 78.0, 72.5)
-[00:56:59] [Server thread/INFO]: wignight joined the game
-[00:57:03] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:03] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:03] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:03] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:03] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:03] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:04] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:04] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:04] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:04] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:04] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:04] [Server thread/INFO]: [Not Secure] <wignight> z
-[00:57:04] [Server thread/INFO]: wignight lost connection: Kicked for spamming
-[00:57:04] [Server thread/INFO]: wignight left the game
-[00:57:08] [Server thread/INFO]: wignight[/127.45.112.196:43585] logged in with entity id 22982 at (11.5, 78.0, 72.5)
-[00:57:08] [Server thread/INFO]: wignight joined the game
-[00:57:10] [Server thread/INFO]: [damiancord: Kicked wignight: Kicked by an operator]
-[00:57:10] [Server thread/INFO]: wignight lost connection: Kicked by an operator
-[00:57:10] [Server thread/INFO]: wignight left the game
-[00:57:18] [Server thread/INFO]: wignight[/127.45.112.196:47897] logged in with entity id 23029 at (11.5, 78.0, 72.5)
-[00:57:18] [Server thread/INFO]: wignight joined the game
-[00:57:26] [Server thread/INFO]: [Not Secure] <wignight> zzzzzz
-[00:57:27] [Server thread/INFO]: [Not Secure] <wignight> zzzzz
-[00:57:28] [Server thread/INFO]: [Not Secure] <damiancord> cala boca
-[00:57:28] [Server thread/INFO]: [Not Secure] <wignight> zzzzz
-[00:57:29] [Server thread/INFO]: [Not Secure] <wignight> zzzzz
-[00:57:34] [Server thread/INFO]: [Not Secure] <wignight> DALE GORDO
-[00:57:34] [Server thread/INFO]: [damiancord: Kicked wignight: Kicked by an operator]
-[00:57:34] [Server thread/INFO]: wignight lost connection: Kicked by an operator
-[00:57:34] [Server thread/INFO]: wignight left the game
-[00:57:38] [Server thread/INFO]: wignight[/127.45.112.196:52585] logged in with entity id 23098 at (11.5, 78.0, 72.5)
-[00:57:38] [Server thread/INFO]: wignight joined the game
-[00:57:43] [Server thread/INFO]: [Not Secure] <wignight> ZZZ
-[00:57:44] [Server thread/INFO]: [Not Secure] <wignight> ZZZ
-[00:57:45] [Server thread/INFO]: [Not Secure] <wignight> ZZZ
-[00:57:46] [Server thread/INFO]: [Not Secure] <wignight> ZZZ
-[00:57:47] [Server thread/INFO]: [Not Secure] <wignight> ZZZ
-[00:57:49] [Server thread/INFO]: [Not Secure] <wignight> DALE MANO
-[00:57:58] [Server thread/INFO]: [Not Secure] <mayitumama> dami porfavor te lo pido de corazon uedes irte a mimir
-[00:58:16] [Server thread/INFO]: [Not Secure] <joaco0314> porfIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
-[00:58:27] [Server thread/INFO]: mayitumama was shot by Skeleton
-[00:58:32] [Server thread/INFO]: wignight has made the advancement [Not Today, Thank You]
-[00:58:36] [Server thread/INFO]: [Not Secure] <damiancord> haber si ahora no los matan los venezolanos
-[00:58:44] [Server thread/INFO]: [Not Secure] <damiancord> uh se me adelanto uno
-[00:58:45] [Server thread/INFO]: [Not Secure] <wignight> xdddd
-[01:01:13] [Server thread/INFO]: joaco0314 was slain by wignight
-[01:01:20] [Server thread/INFO]: mayitumama fell from a high place
-[01:01:21] [Server thread/INFO]: [Not Secure] <damiancord> what
-[01:01:26] [Server thread/INFO]: [Not Secure] <damiancord> wait
-[01:01:54] [Server thread/INFO]: [Not Secure] <damiancord> de la nada esa kill
-[01:02:09] [Server thread/INFO]: [Not Secure] <joaco0314> may no sabe jugar
-[01:02:27] [Server thread/INFO]: [Not Secure] <damiancord> bueh vo no diga mucho que pasaste las 10 muertes
-[01:02:47] [Server thread/INFO]: [Not Secure] <joaco0314> yo si se jugar esa es la diferencia
-[01:03:09] [Server thread/INFO]: [Not Secure] <damiancord> entonces sos tan boludo que sabes jugar y te moris igual por esqueletos y zombies
-[01:04:21] [Server thread/INFO]: mayitumama lost connection: Disconnected
-[01:04:21] [Server thread/INFO]: mayitumama left the game
-[01:04:23] [Server thread/INFO]: damiancord has made the advancement [Sneak 100]
-[01:05:09] [Server thread/INFO]: damiancord has completed the challenge [It Spreads]
-[01:06:54] [Server thread/INFO]: damiancord lost connection: Disconnected
-[01:06:54] [Server thread/INFO]: damiancord left the game
-[01:16:50] [Server thread/INFO]: damiancord[/127.239.83.243:38405] logged in with entity id 27993 at (410.69999998807907, -49.0, -30.30000001192093)
-[01:16:50] [Server thread/INFO]: damiancord joined the game
-[01:18:40] [Server thread/INFO]: wignight lost connection: Disconnected
-[01:18:40] [Server thread/INFO]: wignight left the game
-[01:21:09] [Server thread/INFO]: wignight[/127.45.112.196:44457] logged in with entity id 29594 at (-112.85634628854064, 63.0, -77.27516699086374)
-[01:21:09] [Server thread/INFO]: wignight joined the game
-[01:22:11] [Server thread/INFO]: wignight lost connection: Disconnected
-[01:22:11] [Server thread/INFO]: wignight left the game
-[01:23:05] [Server thread/INFO]: damiancord has made the advancement [Cover Me with Diamonds]
-[01:25:28] [Server thread/INFO]: damiancord was obliterated by a sonically-charged shriek
-[01:25:32] [Server thread/INFO]: [Not Secure] <damiancord> el diavlo
-[01:26:07] [Server thread/INFO]: dariodraws[/127.234.226.240:40813] logged in with entity id 31398 at (7.013128500328645, 116.0, -4.323536839815177)
-[01:26:07] [Server thread/INFO]: dariodraws joined the game
-[01:26:45] [Server thread/INFO]: dariodraws fell from a high place
-[01:29:20] [Server thread/INFO]: dariodraws tried to swim in lava
-[01:30:05] [Server thread/INFO]: dariodraws was slain by Spider
-[01:30:46] [Server thread/INFO]: damiancord was shot by Skeleton
-[01:36:08] [Server thread/INFO]: joaco0314 lost connection: Disconnected
-[01:36:08] [Server thread/INFO]: joaco0314 left the game
-[01:41:57] [Server thread/INFO]: damiancord lost connection: Disconnected
-[01:41:57] [Server thread/INFO]: damiancord left the game
-[01:47:38] [Server thread/INFO]: dariodraws lost connection: Disconnected
-[01:47:38] [Server thread/INFO]: dariodraws left the game
+[16:20:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:20:43] [ServerMain/INFO]: Loaded 7 recipes
+[16:20:43] [ServerMain/INFO]: Loaded 1271 advancements
+[16:20:44] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[16:20:44] [Server thread/INFO]: Loading properties
+[16:20:44] [Server thread/INFO]: Default game type: SURVIVAL
+[16:20:44] [Server thread/INFO]: Generating keypair
+[16:20:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:20:44] [Server thread/INFO]: Using epoll channel type
+[16:20:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:20:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:20:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:20:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:20:44] [Server thread/INFO]: Preparing level "world"
+[16:20:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:20:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:20:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:20:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:53] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[16:20:53] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[16:20:54] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[16:20:54] [Server thread/INFO]: Time elapsed: 7035 ms
+[16:20:54] [Server thread/INFO]: Done (10.084s)! For help, type "help"
+[16:21:35] [Server thread/INFO]: mayitumama[/127.187.251.254:44293] logged in with entity id 116 at (-111.44749876417563, 63.0, -83.09621845534801)
+[16:21:35] [Server thread/INFO]: mayitumama joined the game
