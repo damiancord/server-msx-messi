@@ -391,7 +391,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mutton": "2024-12-18 00:26:32 +0000"
+      "mutton": "2024-12-18 00:26:32 +0000",
+      "rotten_flesh": "2024-12-18 17:04:55 +0000"
     },
     "done": false
   },
@@ -779,9 +780,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-18 17:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 17:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-18 16:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-18 17:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 17:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-18 17:08:16 +0000"
     },
     "done": true
   },
