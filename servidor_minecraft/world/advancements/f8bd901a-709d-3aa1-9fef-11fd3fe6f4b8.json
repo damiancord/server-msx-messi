@@ -532,8 +532,11 @@
     "criteria": {
       "cooked_mutton": "2024-12-16 04:43:15 +0000",
       "cooked_beef": "2024-12-18 00:24:16 +0000",
+      "beef": "2024-12-18 01:39:20 +0000",
       "rabbit": "2024-12-18 01:29:30 +0000",
+      "mutton": "2024-12-18 01:41:34 +0000",
       "bread": "2024-12-16 04:54:35 +0000",
+      "salmon": "2024-12-18 01:33:23 +0000",
       "cooked_chicken": "2024-12-16 05:50:58 +0000",
       "cooked_salmon": "2024-12-16 04:38:08 +0000"
     },
@@ -1692,9 +1695,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-18 01:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 01:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-18 01:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 01:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 01:37:24 +0000"
     },
     "done": true
   },
@@ -1734,6 +1761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 01:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-18 01:20:11 +0000"
@@ -1746,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 01:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-18 01:20:11 +0000"
@@ -1755,6 +1794,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 01:35:44 +0000"
     },
     "done": true
   },
