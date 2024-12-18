@@ -298,7 +298,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2024-12-18 00:22:19 +0000"
+      "minecraft:creeper": "2024-12-18 00:22:19 +0000",
+      "minecraft:zombie": "2024-12-18 16:34:12 +0000"
     },
     "done": false
   },
@@ -710,6 +711,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 16:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 16:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-18 16:24:13 +0000"
@@ -755,18 +768,6 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-18 16:24:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-18 16:23:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-18 16:23:37 +0000"
     },
     "done": true
   },

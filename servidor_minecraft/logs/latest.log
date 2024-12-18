@@ -31,3 +31,31 @@
 [16:20:54] [Server thread/INFO]: Done (10.084s)! For help, type "help"
 [16:21:35] [Server thread/INFO]: mayitumama[/127.187.251.254:44293] logged in with entity id 116 at (-111.44749876417563, 63.0, -83.09621845534801)
 [16:21:35] [Server thread/INFO]: mayitumama joined the game
+[16:31:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=12}
+[16:31:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=12}
+[16:31:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:31:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:31:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:31:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=12}
+[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=5, y=114, z=10}
+[16:32:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:32:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
+[16:32:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
+[16:32:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
+[16:32:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
+[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
+[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
+[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
+[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=9}
+[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=9}
+[16:32:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=114, z=4}
+[16:32:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=5, y=114, z=4}
+[16:32:59] [Server thread/INFO]: mayitumama lost connection: Disconnected
+[16:32:59] [Server thread/INFO]: mayitumama left the game
+[16:33:01] [Server thread/INFO]: mayitumama[/127.187.251.254:56893] logged in with entity id 1954 at (6.081743376248744, 115.0, 4.559309328709142)
+[16:33:01] [Server thread/INFO]: mayitumama joined the game
+[16:33:10] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=4, y=114, z=3}
