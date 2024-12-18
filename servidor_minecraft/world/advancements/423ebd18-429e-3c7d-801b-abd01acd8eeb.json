@@ -393,6 +393,7 @@
     "criteria": {
       "chicken": "2024-12-18 17:30:58 +0000",
       "beef": "2024-12-18 17:11:29 +0000",
+      "apple": "2024-12-18 22:50:06 +0000",
       "mutton": "2024-12-18 00:26:32 +0000",
       "rotten_flesh": "2024-12-18 17:04:55 +0000"
     },
@@ -782,27 +783,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-18 16:51:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-18 17:08:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2024-12-18 17:10:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-18 17:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-12-18 16:51:33 +0000"
     },
     "done": true
   },
@@ -824,15 +819,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_log": "2024-12-18 17:33:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-18 17:33:06 +0000"
+      "has_beef": "2024-12-18 17:10:58 +0000"
     },
     "done": true
   },
@@ -845,6 +834,18 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-18 17:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 17:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-18 17:33:06 +0000"
     },
     "done": true
   },
