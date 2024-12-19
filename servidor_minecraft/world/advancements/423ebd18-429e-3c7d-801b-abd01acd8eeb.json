@@ -10,6 +10,7 @@
       "minecraft:birch_forest": "2024-12-18 00:10:30 +0000",
       "minecraft:dark_forest": "2024-12-18 00:30:50 +0000",
       "minecraft:river": "2024-12-18 16:39:32 +0000",
+      "minecraft:dripstone_caves": "2024-12-19 01:30:27 +0000",
       "minecraft:forest": "2024-12-18 01:03:24 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 16:48:00 +0000",
       "minecraft:meadow": "2024-12-18 00:10:13 +0000"
@@ -971,12 +972,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-19 01:05:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-19 00:56:15 +0000"
@@ -1010,6 +1005,24 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-19 00:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-19 01:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-19 01:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-19 01:29:31 +0000"
     },
     "done": true
   },
