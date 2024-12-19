@@ -378,6 +378,7 @@
       "minecraft:spider": "2024-12-18 23:11:36 +0000",
       "minecraft:creeper": "2024-12-18 23:24:04 +0000",
       "minecraft:slime": "2024-12-18 23:31:32 +0000",
+      "minecraft:witch": "2024-12-19 00:30:16 +0000",
       "minecraft:cave_spider": "2024-12-18 23:42:10 +0000",
       "minecraft:silverfish": "2024-12-19 00:10:52 +0000",
       "minecraft:zombie": "2024-12-18 23:02:42 +0000",
@@ -1318,6 +1319,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-19 00:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-19 00:30:12 +0000"
     },
     "done": true
   },
