@@ -1,116 +1,16 @@
-[16:20:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:20:43] [ServerMain/INFO]: Loaded 7 recipes
-[16:20:43] [ServerMain/INFO]: Loaded 1271 advancements
-[16:20:44] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[16:20:44] [Server thread/INFO]: Loading properties
-[16:20:44] [Server thread/INFO]: Default game type: SURVIVAL
-[16:20:44] [Server thread/INFO]: Generating keypair
-[16:20:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:20:44] [Server thread/INFO]: Using epoll channel type
-[16:20:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:20:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:20:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:20:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:20:44] [Server thread/INFO]: Preparing level "world"
-[16:20:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:20:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:20:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:20:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:20:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:20:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:20:53] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[16:20:53] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[16:20:54] [Worker-Main-3/INFO]: Preparing spawn area: 24%
-[16:20:54] [Server thread/INFO]: Time elapsed: 7035 ms
-[16:20:54] [Server thread/INFO]: Done (10.084s)! For help, type "help"
-[16:21:35] [Server thread/INFO]: mayitumama[/127.187.251.254:44293] logged in with entity id 116 at (-111.44749876417563, 63.0, -83.09621845534801)
-[16:21:35] [Server thread/INFO]: mayitumama joined the game
-[16:31:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=12}
-[16:31:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=12}
-[16:31:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:31:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:31:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:31:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=12}
-[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:32:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=5, y=114, z=10}
-[16:32:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:32:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
-[16:32:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
-[16:32:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
-[16:32:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
-[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=11}
-[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
-[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=10}
-[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=9}
-[16:32:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=115, z=9}
-[16:32:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=4, y=114, z=4}
-[16:32:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-155, y=65, z=-81} gu{x=5, y=114, z=4}
-[16:32:59] [Server thread/INFO]: mayitumama lost connection: Disconnected
-[16:32:59] [Server thread/INFO]: mayitumama left the game
-[16:33:01] [Server thread/INFO]: mayitumama[/127.187.251.254:56893] logged in with entity id 1954 at (6.081743376248744, 115.0, 4.559309328709142)
-[16:33:01] [Server thread/INFO]: mayitumama joined the game
-[16:33:10] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=4, y=114, z=3}
-[16:40:52] [Server thread/INFO]: mayitumama was shot by Skeleton
-[16:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-17, y=115, z=1} gu{x=-16, y=115, z=1}
-[16:44:25] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-17, y=115, z=3} gu{x=-16, y=115, z=2}
-[17:22:07] [Server thread/INFO]: mayitumama was blown up by Creeper
-[17:43:35] [Server thread/INFO]: mayitumama was shot by Skeleton
-[17:46:18] [Server thread/INFO]: mayitumama lost connection: Disconnected
-[17:46:18] [Server thread/INFO]: mayitumama left the game
-[22:44:16] [Server thread/INFO]: mayitumama[/127.187.251.254:53725] logged in with entity id 15856 at (-124.21997651694281, 119.0, 289.1478596062447)
-[22:44:16] [Server thread/INFO]: mayitumama joined the game
-[22:54:27] [Server thread/INFO]: MorsaGames[/127.218.199.176:46907] logged in with entity id 18325 at (9.5, 117.0, -5.5)
-[22:54:27] [Server thread/INFO]: MorsaGames joined the game
-[22:54:35] [Server thread/INFO]: [Not Secure] <MorsaGames> holaaaa
-[22:54:36] [Server thread/INFO]: [Not Secure] <MorsaGames> nigga
-[22:54:36] [Server thread/INFO]: [Not Secure] <MorsaGames> nigga
-[22:54:37] [Server thread/INFO]: [Not Secure] <MorsaGames> nigga
-[22:55:55] [Server thread/INFO]: theyisus_67[/127.4.219.202:49209] logged in with entity id 18982 at (-457.8002560112474, -8.0, -303.14165894448087)
-[22:55:55] [Server thread/INFO]: theyisus_67 joined the game
-[22:56:02] [Server thread/INFO]: MorsaGames has made the advancement [Stone Age]
-[22:56:13] [Server thread/INFO]: MorsaGames has made the advancement [Getting an Upgrade]
-[22:56:25] [Server thread/INFO]: theyisus_67 lost connection: Timed out
-[22:56:25] [Server thread/INFO]: theyisus_67 left the game
-[22:56:25] [Server thread/WARN]: handleDisconnection() called twice
-[22:56:44] [Server thread/INFO]: theyisus_67[/127.4.219.202:46019] logged in with entity id 19545 at (-454.19893325940103, -7.0, -298.36346590526546)
-[22:56:44] [Server thread/INFO]: theyisus_67 joined the game
-[22:58:29] [Server thread/INFO]: theyisus_67 lost connection: Timed out
-[22:58:29] [Server thread/INFO]: theyisus_67 left the game
-[22:59:12] [Server thread/INFO]: theyisus_67[/127.4.219.202:37505] logged in with entity id 21029 at (-465.6077592677009, -4.0, -305.5462748303516)
-[22:59:12] [Server thread/INFO]: theyisus_67 joined the game
-[22:59:43] [Server thread/INFO]: theyisus_67 lost connection: Timed out
-[22:59:43] [Server thread/INFO]: theyisus_67 left the game
-[23:01:19] [Server thread/INFO]: theyisus_67[/127.4.219.202:56621] logged in with entity id 22144 at (-465.6077592677009, -4.0, -305.5462748303516)
-[23:01:19] [Server thread/INFO]: theyisus_67 joined the game
-[23:01:49] [Server thread/INFO]: theyisus_67 lost connection: Timed out
-[23:01:49] [Server thread/INFO]: theyisus_67 left the game
-[23:02:42] [Server thread/INFO]: MorsaGames has made the advancement [Monster Hunter]
-[23:04:56] [Server thread/INFO]: MorsaGames has made the advancement [Acquire Hardware]
-[23:05:00] [Server thread/INFO]: [Not Secure] <mayitumama> www
-[23:11:07] [Server thread/INFO]: MorsaGames has made the advancement [Not Today, Thank You]
-[23:12:21] [Server thread/INFO]: mayitumama fell from a high place
-[23:12:37] [Server thread/INFO]: MorsaGames has made the advancement [Sweet Dreams]
-[23:13:35] [Server thread/INFO]: mayitumama hit the ground too hard
-[23:17:41] [Server thread/INFO]: MorsaGames has made the advancement [Isn't It Iron Pick]
-[23:18:19] [Server thread/INFO]: MorsaGames has made the advancement [Suit Up]
-[23:22:33] [Server thread/WARN]: mayitumama moved too quickly! -6.632921934680013,-6.3099237991128945,-4.090456691069676
-[23:25:29] [Server thread/INFO]: mayitumama lost connection: Disconnected
-[23:25:29] [Server thread/INFO]: mayitumama left the game
-[23:28:16] [Server thread/INFO]: mayitumama[/127.187.251.254:48291] logged in with entity id 28817 at (-129.69999998807907, 119.0, 288.4060807039172)
-[23:28:16] [Server thread/INFO]: mayitumama joined the game
-[23:29:19] [Server thread/INFO]: mayitumama was slain by Zombie
-[23:30:38] [Server thread/INFO]: mayitumama was blown up by Creeper
-[23:30:46] [Server thread/INFO]: mayitumama lost connection: Disconnected
-[23:30:46] [Server thread/INFO]: mayitumama left the game
-[23:34:32] [Server thread/INFO]: mayitumama[/127.187.251.254:52535] logged in with entity id 30315 at (-119.95691999383126, 118.0, 261.89141735188105)
-[23:34:32] [Server thread/INFO]: mayitumama joined the game
-[23:40:00] [Server thread/INFO]: MorsaGames has made the advancement [Diamonds!]
+[00:01:54] [Server thread/INFO]: MorsaGames lost connection: Disconnected
+[00:01:54] [Server thread/INFO]: MorsaGames left the game
+[00:02:01] [Server thread/INFO]: mayitumama fell from a high place
+[00:02:44] [Server thread/INFO]: MorsaGames[/127.218.199.176:34809] logged in with entity id 35447 at (-185.30000001192093, -1.0, 415.69999998807907)
+[00:02:44] [Server thread/INFO]: MorsaGames joined the game
+[00:02:49] [Server thread/INFO]: [Not Secure] <MorsaGames> papus
+[00:06:15] [Server thread/INFO]: mayitumama was slain by Spider
+[00:06:30] [Server thread/INFO]: wignight[/127.45.112.196:35511] logged in with entity id 36553 at (-110.6875, 63.42500001192093, -80.58364523050614)
+[00:06:30] [Server thread/INFO]: wignight joined the game
+[00:10:13] [Server thread/INFO]: mayitumama was shot by Skeleton
+[00:11:35] [Server thread/INFO]: MorsaGames has completed the challenge [It Spreads]
+[00:11:40] [Server thread/INFO]: [Not Secure] <MorsaGames> wtf
+[00:12:06] [Server thread/INFO]: mayitumama was shot by Skeleton
+[00:12:42] [Server thread/INFO]: MorsaGames has made the advancement [Sneak 100]
+[00:12:46] [Server thread/INFO]: [Not Secure] <MorsaGames> ayuda
+[00:12:47] [Server thread/INFO]: [Not Secure] <MorsaGames> xd
